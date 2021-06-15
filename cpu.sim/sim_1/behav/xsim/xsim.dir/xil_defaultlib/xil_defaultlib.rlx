@@ -1,0 +1,17 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+F:/verilog Project/cpu/cpu.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sim_1/new/tb.v,1623321942,verilog,,,,tb,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/ip/ipcore/sim/ipcore.v,1623367602,verilog,,F:/verilog Project/cpu/cpu.srcs/sources_1/new/ALU.v,,ipcore,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/new/ALU.v,1622632004,verilog,,F:/verilog Project/cpu/cpu.srcs/sources_1/new/ALUCt.v,,ALU,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/new/ALUCt.v,1622631699,verilog,,F:/verilog Project/cpu/cpu.srcs/sources_1/new/Control.v,,ALUCt,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/new/Control.v,1622631725,verilog,,F:/verilog Project/cpu/cpu.srcs/sources_1/new/DataMem.v,,Control,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/new/DataMem.v,1622631755,verilog,,F:/verilog Project/cpu/cpu.srcs/sources_1/new/IFU.v,,DataMem,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/new/IFU.v,1622631484,verilog,,F:/verilog Project/cpu/cpu.srcs/sources_1/new/RegFile.v,,IFU,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/new/RegFile.v,1622631741,verilog,,F:/verilog Project/cpu/cpu.srcs/sources_1/new/XD.v,,RegFile,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/new/XD.v,1623146092,verilog,,F:/verilog Project/cpu/cpu.srcs/sources_1/new/clkDiv.v,,XD,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/new/clkDiv.v,1623148720,verilog,,F:/verilog Project/cpu/cpu.srcs/sources_1/new/segControl.v,,clkDiv,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/new/segControl.v,1623327292,verilog,,F:/verilog Project/cpu/cpu.srcs/sources_1/new/top.v,,segControl,,,,,,,,
+F:/verilog Project/cpu/cpu.srcs/sources_1/new/top.v,1623323492,verilog,,F:/verilog Project/cpu/cpu.srcs/sim_1/new/tb.v,,top,,,,,,,,
